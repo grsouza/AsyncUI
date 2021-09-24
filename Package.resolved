@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AnyAsyncSequence",
+        "repositoryURL": "https://github.com/grsouza/AnyAsyncSequence",
+        "state": {
+          "branch": "main",
+          "revision": "60c481e2209c3283508b2c63754de0b7191ff59b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
